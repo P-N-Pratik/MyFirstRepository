@@ -20,7 +20,7 @@ command - git push origin main
 - origin in this context says that the repo from which we have cloned, in that repo basically we need to push the changes or new files.and main is the branch.
 
 init command -> used to create a new git repo
-git init
+git init repo_name
 
 git remote add origin <https . link>
 
